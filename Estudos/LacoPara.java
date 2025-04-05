@@ -1,3 +1,4 @@
+package Estudos;
 public class LacoPara {
   public static void main(String[] args) {
     

@@ -1,3 +1,4 @@
+package Estudos;
 public class LacoFacaEnquanto {
   public static void main(String[] args) {
     

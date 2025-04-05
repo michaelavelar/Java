@@ -1,3 +1,4 @@
+package Estudos;
 public class LacoEnquanto {
   public static void main(String[] args) {
     // Laço enquanto

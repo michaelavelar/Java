@@ -1,3 +1,4 @@
+package Estudos;
 public class Concatenacao {
   public static void main(String[] args) {
     // Variaveis

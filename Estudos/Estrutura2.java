@@ -1,3 +1,4 @@
+package Estudos;
 public class Estrutura2 {
 
    void main() {    

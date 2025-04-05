@@ -1,3 +1,4 @@
+package Estudos;
 public class Constantes {
   public static void main(String[] args) {
     // variavel armazena temporariamente uma informacao, podendo ter alteracao

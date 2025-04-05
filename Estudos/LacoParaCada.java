@@ -1,3 +1,4 @@
+package Estudos;
 public class LacoParaCada {
   public static void main(String[] args) {
 
